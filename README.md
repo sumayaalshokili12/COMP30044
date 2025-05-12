@@ -13,4 +13,7 @@
 
 🔗 **Here**: [Streamlit App](https://comp30044-9aryzjlvvdzclwh7lqdqnf.streamlit.app)
 
+📊 Dataset
 
+- **Source**: [Kaggle - House Price Prediction Dataset](https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset)
+---
