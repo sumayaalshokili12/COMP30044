@@ -1,6 +1,6 @@
 #  House Price Prediction UI
 
-This is a deployed machine learning web application that predicts house prices based on features such as area, number of bedrooms, bathrooms, location, year built, and more. The model was developed and deployed as part of the **MPA(COMP 30044) - Spring 2025** assignment.
+This is a deployed machine learning UI that predicts house prices based on features such as area, number of bedrooms, bathrooms, location, year built, and more. The model was developed and deployed as part of the **MPA(COMP 30044) - Spring 2025** assignment.
 
 ---
 
